@@ -34,5 +34,8 @@ sudden water shortage could have prepared 60 days earlier.
 ## Project Status
 🔨 Phase 1 in progress — Building data pipeline and OOP foundation
 
+## Current Status — Nashik District
+![Nashik Dam Storage](results/Nashik_storage.png)
+
 ## Author
 Sanskruti Mandlik — Aspiring ML Engineer, Pune
